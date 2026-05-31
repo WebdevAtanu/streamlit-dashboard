@@ -133,7 +133,7 @@ END
 GO
 ```
 
-## Screen Shots
+## Screenshots
 
 <p align="center">
   <img src="screens/1.png" width="45%">
